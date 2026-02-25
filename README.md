@@ -81,12 +81,7 @@ These results suggest that treatment instability, metabolic control, and patient
 - This model can be used as a **screening tool** to flag patients for further review (not as a standalone clinical decision system).
 
 ## Repository Contents
-- `notebooks/analysis.ipynb` — full EDA, preprocessing, modeling, and evaluation workflow
-- `reports/Healthcare Analysis.pdf` — project report / writeup
+- `analysis/analysis.ipynb` — full EDA, preprocessing, modeling, and evaluation workflow
+- `report/Healthcare Analysis.pdf` — project report / writeup
 - `images/` — figures used in this README (optional but recommended)
 
-## How to Run
-1. Clone the repository
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
